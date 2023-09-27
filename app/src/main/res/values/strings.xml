@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CreandoCuadricula</string>
+    <string name="architecture">Arquitec</string>
+    <string name="crafts">Artesania</string>
+    <string name="business">Negocios</string>
+    <string name="culinary">Culinaria</string>
+    <string name="design">Diseño</string>
+    <string name="fashion">Moda</string>
+    <string name="film">Cine</string>
+    <string name="gaming">Juegos</string>
+    <string name="drawing">Dibujo</string>
+    <string name="lifestyle">EstiloVida</string>
+    <string name="music">Musica</string>
+    <string name="painting">Pintura</string>
+    <string name="photography">Fotografy</string>
+    <string name="tech">Tecnology</string>
+</resources>
+
